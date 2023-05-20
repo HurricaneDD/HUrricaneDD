@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiamBlog
-- 👀 I’m interested in HTML5 Javascript Python
-- 🌱 I’m currently learning Java Skript
+- 👀 I’m interested in HTML5 Javascript Python NLP
+- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email：1727364668@qq.com or 15657652065@163.com
 
